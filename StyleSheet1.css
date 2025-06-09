@@ -447,8 +447,8 @@
 .web2 {
     width: 100px;
     position: absolute;
-    top: 2510px;
-    left: 1000px;
+    top: 2440px;
+    left: 1040px;
     background-color: mediumvioletred;
     border: 3px black solid;
     cursor: grab;
@@ -456,13 +456,13 @@
 }
 
 .movie03{
-    width:400px;
+    width:450px;
     
     position: absolute;
-    top:2400px;
+    top:2330px;
     left:838px;
     font-size:30px;
-           font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+           font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
            
 
 }
@@ -812,8 +812,8 @@
     .web2 {
         width: 100px;
         position: absolute;
-        top: 1330px;
-        left: 175px;
+        top: 1280px;
+        left: 170px;
         background-color: mediumvioletred;
         border: 3px black solid;
         cursor: grab;
@@ -821,12 +821,12 @@
     }
 
     .movie03 {
-        width:350px;
+        width:390px;
         position: absolute;
-        top: 1260px;
+        top: 1180px;
         overflow-x:hidden;
-        left:35px;
+        left:9px;
         font-size:25px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 }

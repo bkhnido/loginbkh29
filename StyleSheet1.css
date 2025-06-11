@@ -704,11 +704,11 @@
     }
 
     .tell {
-        width: 400px;
+        width: 380px;
         position: absolute;
-        top: 1350px;
+        top: 400px;
         left: 30px;
-        font-size: 27px;
+        font-size: 25px;
         font-family: Impact;
     }
 
@@ -812,7 +812,7 @@
     .web2 {
         width: 100px;
         position: absolute;
-        top: 1280px;
+        top: 1350px;
         left: 170px;
         background-color: mediumvioletred;
         border: 3px black solid;
@@ -823,7 +823,7 @@
     .movie03 {
         width:390px;
         position: absolute;
-        top: 1180px;
+        top: 1250px;
         overflow-x:hidden;
         left:9px;
         font-size:25px;
